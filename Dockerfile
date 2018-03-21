@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM armhf/alpine
 MAINTAINER kevineye@gmail.com
 
 RUN apk -U add \
